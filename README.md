@@ -6,4 +6,4 @@
 3. Verbose mode is enabled '-v'
 4. HideAuxiliary is set to 'false'
 
-<p>If you want to use the Ventura Beta you'll have to update to the OpenCore 8.3 and also all it's main kexts (Lilu, Whatevergreen, VirtualSMC and AppleALC).</p>
+<p>If you want to use the Ventura Beta you'll have to update to the OpenCore 8.3 and also all it's main kexts (Lilu, WhateverGreen, VirtualSMC and AppleALC).</p>
